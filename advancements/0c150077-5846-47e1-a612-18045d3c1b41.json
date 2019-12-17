@@ -110,6 +110,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2019-05-05 16:45:43 -0400",
+      "minecraft:mountains": "2019-12-16 19:03:11 -0500",
       "minecraft:taiga": "2019-05-05 16:46:34 -0400",
       "minecraft:taiga_hills": "2019-05-05 16:58:13 -0400",
       "minecraft:dark_forest": "2019-05-05 16:52:52 -0400",
@@ -407,13 +408,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/green_bed_from_white_bed": {
+  "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-05-05 07:44:45 -0400"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brown_bed_from_white_bed": {
+  "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-05-05 07:44:45 -0400"
     },
@@ -551,5 +552,5 @@
     },
     "done": true
   },
-  "DataVersion": 1952
+  "DataVersion": 1976
 }
