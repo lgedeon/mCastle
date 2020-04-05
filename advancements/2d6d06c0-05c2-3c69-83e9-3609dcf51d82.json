@@ -1,0 +1,18 @@
+{
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2020-03-30 17:10:13 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:dark_forest": "2020-03-30 17:08:37 -0400",
+      "minecraft:river": "2020-03-30 17:09:37 -0400",
+      "minecraft:wooded_hills": "2020-03-30 17:10:56 -0400",
+      "minecraft:plains": "2020-03-30 17:08:28 -0400"
+    },
+    "done": false
+  },
+  "DataVersion": 2230
+}
