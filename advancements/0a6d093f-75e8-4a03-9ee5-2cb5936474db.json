@@ -396,6 +396,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2020-04-25 12:39:53 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2020-01-24 22:22:11 -0500"
@@ -750,6 +756,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2020-04-25 17:08:52 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-03-29 13:01:29 -0400"
@@ -819,6 +831,12 @@
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-03-29 13:01:29 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2020-04-25 13:02:59 -0400"
     },
     "done": true
   },
@@ -1050,6 +1068,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2020-04-25 17:08:52 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2020-02-09 17:30:41 -0500"
@@ -1236,6 +1260,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_log": "2020-04-25 13:02:59 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2020-02-09 18:31:30 -0500"
@@ -1257,6 +1287,12 @@
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2020-03-29 15:27:59 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2020-04-25 17:08:52 -0400"
     },
     "done": true
   },
@@ -1388,15 +1424,29 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:jungle_edge": "2020-04-25 12:05:52 -0400",
+      "minecraft:cold_ocean": "2020-04-25 12:01:34 -0400",
       "minecraft:forest": "2020-01-24 21:42:10 -0500",
       "minecraft:mountains": "2020-03-30 16:08:30 -0400",
+      "minecraft:mushroom_fields": "2020-04-25 12:12:37 -0400",
       "minecraft:taiga": "2020-01-24 22:47:36 -0500",
+      "minecraft:desert_hills": "2020-04-25 12:05:51 -0400",
+      "minecraft:deep_cold_ocean": "2020-04-25 12:01:35 -0400",
       "minecraft:taiga_hills": "2020-03-29 15:20:44 -0400",
+      "minecraft:desert": "2020-04-25 12:05:18 -0400",
+      "minecraft:jungle": "2020-04-25 12:06:00 -0400",
       "minecraft:birch_forest": "2020-03-22 12:47:27 -0400",
+      "minecraft:jungle_hills": "2020-04-25 12:05:53 -0400",
+      "minecraft:deep_lukewarm_ocean": "2020-04-25 12:11:55 -0400",
+      "minecraft:savanna_plateau": "2020-04-25 12:02:48 -0400",
       "minecraft:beach": "2020-01-24 21:41:55 -0500",
       "minecraft:dark_forest": "2020-01-24 21:43:09 -0500",
       "minecraft:river": "2020-01-24 21:42:09 -0500",
+      "minecraft:lukewarm_ocean": "2020-04-25 12:12:07 -0400",
       "minecraft:wooded_hills": "2020-01-24 21:41:57 -0500",
+      "minecraft:mushroom_field_shore": "2020-04-25 12:12:36 -0400",
+      "minecraft:swamp": "2020-04-25 12:03:33 -0400",
+      "minecraft:savanna": "2020-04-25 12:02:35 -0400",
       "minecraft:plains": "2020-01-24 21:41:10 -0500"
     },
     "done": false
