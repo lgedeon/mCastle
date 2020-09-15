@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2020-09-14 21:20:21 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_stained_glass": {
     "criteria": {
       "has_glass": "2018-05-06 17:35:42 -0400"
@@ -954,6 +960,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/obtain_netherite_hoe": {
+    "criteria": {
+      "netherite_hoe": "2020-09-14 21:31:32 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_banner": {
     "criteria": {
       "has_cyan_wool": "2020-01-24 22:29:08 -0500"
@@ -1647,6 +1659,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2020-09-14 21:33:21 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2019-05-05 07:29:11 -0400"
@@ -1665,8 +1683,15 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_reeds": "2020-09-14 22:02:49 -0400"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "potato": "2020-09-14 22:53:27 -0400",
       "pumpkin_pie": "2020-04-01 17:13:01 -0400",
       "golden_apple": "2019-12-25 14:43:58 -0500",
       "enchanted_golden_apple": "2019-12-25 23:41:22 -0500"
@@ -1899,6 +1924,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2020-04-01 18:00:21 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2020-09-14 21:33:21 -0400"
     },
     "done": true
   },
@@ -2259,6 +2290,12 @@
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2019-12-23 13:04:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2020-09-14 22:02:49 -0400"
     },
     "done": true
   },
